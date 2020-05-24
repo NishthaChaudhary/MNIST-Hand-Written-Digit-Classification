@@ -8,6 +8,9 @@ Choosing any two digits e.g. 0 and 5 and using :
 
 Classifying the data set amonf these two labels by traing the above models.
 
+![image](https://user-images.githubusercontent.com/54689111/82743611-ba277200-9d3b-11ea-9459-62201c425ad7.png)
+
+
 ## Neaural Network for the Classification problem:
 
 ### Dataset:
