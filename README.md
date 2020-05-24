@@ -69,3 +69,8 @@ The structure of the Neaural network is as below:
 * Image Augmentattion: Taking images that are already in the training dataset and manipulating them in order to create many altered versions of the same image. First, this method provides more images for our model to train on; Second, this manipulation method makes our model more robust.
 
 
+## Implementing More Tensorflow:
+
+Further, I have implemented TensorFLow operations, dataset manipulations and implented tensorflow estimators for Linear Regression and Neural Network.
+
+The visualization is done using TensorBorad.
