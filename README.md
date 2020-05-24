@@ -73,4 +73,4 @@ The structure of the Neaural network is as below:
 
 Further, I have implemented TensorFLow operations, dataset manipulations and implented tensorflow estimators for Linear Regression and Neural Network.
 
-The visualization is done using TensorBorad.
+The visualization is done using TensorBoard.
